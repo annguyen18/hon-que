@@ -18,3 +18,11 @@ HonQue chatbot focuses on three main features, serving two distinct customer gro
 
    In this competition, we have decided to focus on the task of skin cancer detection, as it is a      disease with symptoms that can easily be overlooked. Additionally, training the model with the      HAM10000 dataset has demonstrated that this model can be applied to various other datasets as       well. The core AI technology can be applied universally across different datasets and scenarios.
 
+3. SPEAKER VERIFICATION LOCKER
+   Due to the sensitive nature of health issues and associated data, HonQue chatbot has implemented    a voice-based feature as a locker. This feature allows users, especially elderly individuals, to    interact with electronic devices more easily using their voice. For business customers, the         addition of the locker feature ensures that only authorized users can access specific data and      request history.
+
+   By incorporating voice interaction, HonQue enhances accessibility and user experience for           individuals who may find it challenging to navigate traditional interfaces. Voice commands          enable a more intuitive and natural way of interacting with the chatbot, reducing barriers and      making it more user-friendly, particularly for elderly users who may prefer voice-based             interactions.
+
+   The locker feature adds an extra layer of security and privacy to sensitive health data. It         ensures that only authorized individuals with the necessary permissions can access certain data     and request histories. This is particularly important for business customers who handle             sensitive health information and need to maintain strict control over data access and security.
+
+   By implementing these features, HonQue aims to address the unique needs of different customer       groups, providing a secure and user-friendly platform for health-related interactions. The voice-based interaction and locker feature not only improve accessibility but also prioritize the             confidentiality and privacy of sensitive health data, fostering trust and confidence among users.
